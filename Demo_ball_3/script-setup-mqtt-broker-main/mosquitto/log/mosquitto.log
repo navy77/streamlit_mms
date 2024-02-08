@@ -1,0 +1,2300 @@
+1704526445: mosquitto version 2.0.18 starting
+1704526445: Config loaded from /mosquitto/config/mosquitto.conf.
+1704526445: Opening ipv4 listen socket on port 1883.
+1704526445: mosquitto version 2.0.18 running
+1704526477: New connection from 192.168.65.1:55215 on port 1883.
+1704526477: New connection from 192.168.65.1:55214 on port 1883.
+1704526477: Client <unknown> disconnected due to protocol error.
+1704526477: Client <unknown> disconnected due to protocol error.
+1704526477: New connection from 192.168.65.1:55216 on port 1883.
+1704526477: Client <unknown> disconnected due to protocol error.
+1704526478: New connection from 192.168.65.1:55217 on port 1883.
+1704526478: New connection from 192.168.65.1:55218 on port 1883.
+1704526478: Client <unknown> disconnected due to protocol error.
+1704526478: Client <unknown> disconnected due to protocol error.
+1704526478: New connection from 192.168.65.1:55219 on port 1883.
+1704526478: Client <unknown> disconnected due to protocol error.
+1704526483: New connection from 192.168.65.1:55224 on port 1883.
+1704526483: New connection from 192.168.65.1:55225 on port 1883.
+1704526483: Client <unknown> disconnected due to protocol error.
+1704526483: Client <unknown> disconnected due to protocol error.
+1704526483: New connection from 192.168.65.1:55226 on port 1883.
+1704526483: Client <unknown> disconnected due to protocol error.
+1704526513: New connection from 192.168.65.1:55245 on port 1883.
+1704526513: New connection from 192.168.65.1:55246 on port 1883.
+1704526513: Client <unknown> disconnected due to protocol error.
+1704526513: Client <unknown> disconnected due to protocol error.
+1704526513: New connection from 192.168.65.1:55247 on port 1883.
+1704526513: Client <unknown> disconnected due to protocol error.
+1704526573: New connection from 192.168.65.1:55284 on port 1883.
+1704526573: New connection from 192.168.65.1:55285 on port 1883.
+1704526573: Client <unknown> disconnected due to protocol error.
+1704526573: Client <unknown> disconnected due to protocol error.
+1704526573: New connection from 192.168.65.1:55286 on port 1883.
+1704526573: Client <unknown> disconnected due to protocol error.
+1704526589: New connection from 192.168.65.1:55295 on port 1883.
+1704526589: New client connected from 192.168.65.1:55295 as mqtt-explorer-0ada633a (p2, c1, k60).
+1704526838: New connection from 192.168.65.1:55446 on port 1883.
+1704526838: New client connected from 192.168.65.1:55446 as nodered_b545b191c21c8cf1 (p2, c1, k60).
+1704526870: Client nodered_b545b191c21c8cf1 disconnected.
+1704526870: New connection from 192.168.65.1:55465 on port 1883.
+1704526870: New client connected from 192.168.65.1:55465 as nodered_470a01e0c4c82f52 (p2, c1, k60).
+1704526873: New connection from 192.168.65.1:55470 on port 1883.
+1704526873: New connection from 192.168.65.1:55471 on port 1883.
+1704526873: Client <unknown> disconnected due to protocol error.
+1704526873: Client <unknown> disconnected due to protocol error.
+1704526873: New connection from 192.168.65.1:55472 on port 1883.
+1704526873: Client <unknown> disconnected due to protocol error.
+1704526964: New connection from 192.168.65.1:55527 on port 1883.
+1704526964: New connection from 192.168.65.1:55528 on port 1883.
+1704526964: Client <unknown> disconnected due to protocol error.
+1704526964: Client <unknown> disconnected due to protocol error.
+1704526964: New connection from 192.168.65.1:55529 on port 1883.
+1704526964: Client <unknown> disconnected due to protocol error.
+1704526967: New connection from 192.168.65.1:55532 on port 1883.
+1704526967: New connection from 192.168.65.1:55533 on port 1883.
+1704526967: Client <unknown> disconnected due to protocol error.
+1704526967: Client <unknown> disconnected due to protocol error.
+1704526968: New connection from 192.168.65.1:55534 on port 1883.
+1704526968: Client <unknown> disconnected due to protocol error.
+1704527021: Client nodered_470a01e0c4c82f52 disconnected.
+1704527021: New connection from 192.168.65.1:55574 on port 1883.
+1704527021: New client connected from 192.168.65.1:55574 as nodered_e7bedb3daba63a6c (p2, c1, k60).
+1704527420: Client nodered_e7bedb3daba63a6c disconnected.
+1704528246: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704528246: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704529838: New connection from 192.168.65.1:57633 on port 1883.
+1704529838: New client connected from 192.168.65.1:57633 as nodered_e0680b1f87f7764f (p2, c1, k60).
+1704529877: Client nodered_e0680b1f87f7764f disconnected.
+1704529877: New connection from 192.168.65.1:57667 on port 1883.
+1704529877: New client connected from 192.168.65.1:57667 as nodered_aba176d7233c7cab (p2, c1, k60).
+1704530047: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704530047: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704530199: Client nodered_aba176d7233c7cab disconnected.
+1704530199: New connection from 192.168.65.1:57934 on port 1883.
+1704530199: New client connected from 192.168.65.1:57934 as nodered_baea3e2cb35103b2 (p2, c1, k60).
+1704530236: Client nodered_baea3e2cb35103b2 disconnected.
+1704530236: New connection from 192.168.65.1:57968 on port 1883.
+1704530236: New client connected from 192.168.65.1:57968 as nodered_4629f1d641df0bcd (p2, c1, k60).
+1704530466: New connection from 192.168.65.1:58149 on port 1883.
+1704530466: New client connected from 192.168.65.1:58149 as publish-61 (p2, c1, k60).
+1704530532: Client nodered_4629f1d641df0bcd disconnected.
+1704530532: New connection from 192.168.65.1:58210 on port 1883.
+1704530532: New client connected from 192.168.65.1:58210 as nodered_395392460a841d68 (p2, c1, k60).
+1704530579: Client nodered_395392460a841d68 disconnected.
+1704530579: New connection from 192.168.65.1:58247 on port 1883.
+1704530579: New client connected from 192.168.65.1:58247 as nodered_95edd1686a0acf93 (p2, c1, k60).
+1704530688: Client nodered_95edd1686a0acf93 disconnected.
+1704530688: New connection from 192.168.65.1:58334 on port 1883.
+1704530688: New client connected from 192.168.65.1:58334 as nodered_42f28f54df5988c2 (p2, c1, k60).
+1704530708: Client nodered_42f28f54df5988c2 disconnected.
+1704530708: New connection from 192.168.65.1:58355 on port 1883.
+1704530708: New client connected from 192.168.65.1:58355 as nodered_92a61cd6c3562a45 (p2, c1, k60).
+1704530717: New connection from 192.168.65.1:58363 on port 1883.
+1704530717: New client connected from 192.168.65.1:58363 as publish-466 (p2, c1, k60).
+1704530717: Client publish-466 closed its connection.
+1704530717: Client publish-61 closed its connection.
+1704530718: New connection from 192.168.65.1:58364 on port 1883.
+1704530718: New client connected from 192.168.65.1:58364 as publish-927 (p2, c1, k60).
+1704530752: Client publish-927 closed its connection.
+1704530901: New connection from 192.168.65.1:58516 on port 1883.
+1704530901: New client connected from 192.168.65.1:58516 as publish-614 (p2, c1, k60).
+1704530963: Client publish-614 closed its connection.
+1704531449: New connection from 192.168.65.1:58950 on port 1883.
+1704531449: New client connected from 192.168.65.1:58950 as publish-700 (p2, c1, k60).
+1704531473: New connection from 192.168.65.1:58962 on port 1883.
+1704531473: New client connected from 192.168.65.1:58962 as publish-445 (p2, c1, k60).
+1704531473: Client publish-445 closed its connection.
+1704531473: Client publish-700 closed its connection.
+1704531848: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704531848: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704531928: New connection from 192.168.65.1:59334 on port 1883.
+1704531928: New client connected from 192.168.65.1:59334 as publish-6 (p2, c1, k60).
+1704531934: New connection from 192.168.65.1:59342 on port 1883.
+1704531934: New client connected from 192.168.65.1:59342 as publish-161 (p2, c1, k60).
+1704531934: Client publish-161 closed its connection.
+1704531934: Client publish-6 closed its connection.
+1704531957: New connection from 192.168.65.1:59361 on port 1883.
+1704531957: New client connected from 192.168.65.1:59361 as publish-999 (p2, c1, k60).
+1704531959: New connection from 192.168.65.1:59369 on port 1883.
+1704531959: New client connected from 192.168.65.1:59369 as publish-457 (p2, c1, k60).
+1704531959: Client publish-457 closed its connection.
+1704531959: Client publish-999 closed its connection.
+1704533267: New connection from 192.168.65.1:59728 on port 1883.
+1704533267: New client connected from 192.168.65.1:59728 as publish-495 (p2, c1, k60).
+1704533270: New connection from 192.168.65.1:59729 on port 1883.
+1704533270: New client connected from 192.168.65.1:59729 as publish-806 (p2, c1, k60).
+1704533270: Client publish-806 closed its connection.
+1704533270: Client publish-495 closed its connection.
+1704533358: New connection from 192.168.65.1:59763 on port 1883.
+1704533358: New client connected from 192.168.65.1:59763 as publish-391 (p2, c1, k60).
+1704533361: New connection from 192.168.65.1:59764 on port 1883.
+1704533361: New client connected from 192.168.65.1:59764 as publish-682 (p2, c1, k60).
+1704533361: Client publish-682 closed its connection.
+1704533361: Client publish-391 closed its connection.
+1704533367: New connection from 192.168.65.1:59767 on port 1883.
+1704533367: New client connected from 192.168.65.1:59767 as publish-639 (p2, c1, k60).
+1704533368: New connection from 192.168.65.1:59768 on port 1883.
+1704533368: New client connected from 192.168.65.1:59768 as publish-593 (p2, c1, k60).
+1704533368: Client publish-593 closed its connection.
+1704533368: Client publish-639 closed its connection.
+1704533368: New connection from 192.168.65.1:59769 on port 1883.
+1704533368: New client connected from 192.168.65.1:59769 as publish-173 (p2, c1, k60).
+1704533370: New connection from 192.168.65.1:59770 on port 1883.
+1704533370: New client connected from 192.168.65.1:59770 as publish-747 (p2, c1, k60).
+1704533370: Client publish-747 closed its connection.
+1704533370: Client publish-173 closed its connection.
+1704533649: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704533649: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704535172: Client nodered_92a61cd6c3562a45 disconnected.
+1704535450: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704535450: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704535531: Client mqtt-explorer-0ada633a closed its connection.
+1704678324: mosquitto version 2.0.18 starting
+1704678324: Config loaded from /mosquitto/config/mosquitto.conf.
+1704678324: Opening ipv4 listen socket on port 1883.
+1704678324: mosquitto version 2.0.18 running
+1704678382: New connection from 192.168.65.1:42052 on port 1883.
+1704678382: New client connected from 192.168.65.1:42052 as nodered_441c4c13dc5dfa73 (p2, c1, k60).
+1704680124: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704680124: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704680624: New connection from 192.168.65.1:43100 on port 1883.
+1704680624: New client connected from 192.168.65.1:43100 as publish-282 (p2, c1, k60).
+1704681925: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704681925: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704683539: New connection from 192.168.65.1:47555 on port 1883.
+1704683539: New client connected from 192.168.65.1:47555 as Telegraf-Consumer-fV0xg (p2, c1, k60).
+1704683726: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704683726: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704685527: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704685527: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704685938: New connection from 192.168.65.1:49498 on port 1883.
+1704685938: New client connected from 192.168.65.1:49498 as publish-276 (p2, c1, k60).
+1704685945: Client publish-276 closed its connection.
+1704687328: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704687328: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704687980: Client publish-282 closed its connection.
+1704688465: New connection from 192.168.65.1:52400 on port 1883.
+1704688465: New client connected from 192.168.65.1:52400 as publish-62 (p2, c1, k60).
+1704688474: New connection from 192.168.65.1:52412 on port 1883.
+1704688474: New client connected from 192.168.65.1:52412 as publish-659 (p2, c1, k60).
+1704688474: Client publish-659 closed its connection.
+1704688474: Client publish-62 closed its connection.
+1704689129: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704689129: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704690930: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704690930: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704692731: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704692731: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704694532: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704694532: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704696333: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704696333: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704698134: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704698134: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704699935: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704699935: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704701736: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704701736: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704703537: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704703537: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704705338: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704705338: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704707139: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704707139: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704762364: mosquitto version 2.0.18 starting
+1704762364: Config loaded from /mosquitto/config/mosquitto.conf.
+1704762364: Opening ipv4 listen socket on port 1883.
+1704762364: mosquitto version 2.0.18 running
+1704762365: New connection from 192.168.65.1:17652 on port 1883.
+1704762365: New client connected from 192.168.65.1:17652 as Telegraf-Consumer-nlCm7 (p2, c1, k60).
+1704762524: New connection from 192.168.65.1:17675 on port 1883.
+1704762524: New client connected from 192.168.65.1:17675 as nodered_1bb7edbfa3f15b27 (p2, c1, k60).
+1704764165: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704764165: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704765966: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704765966: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704767767: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704767767: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704769568: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704769568: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704771369: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704771369: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704773170: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704773170: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704774971: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704774971: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704776772: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704776772: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704778573: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704778573: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704780374: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704780374: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704782175: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704782175: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704783976: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704783976: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704785777: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704785777: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704787578: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704787578: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704789379: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704789379: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704791180: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704791180: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704792981: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704792981: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704794782: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704794782: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704796583: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704796583: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704798384: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704798384: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704800185: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704800185: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704801986: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704801986: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704803787: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704803787: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704805588: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704805588: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704807389: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704807389: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704809190: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704809190: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704810991: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704810991: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704812792: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704812792: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704814593: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704814593: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704816394: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704816394: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704818195: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704818195: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704819996: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704819996: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704821797: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704821797: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704823598: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704823598: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704825399: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704825399: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704827200: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704827200: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704829001: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704829001: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704830802: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704830802: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704832603: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704832603: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704834404: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704834404: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704836205: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704836205: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704838006: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704838006: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704839807: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704839807: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704841608: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704841608: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704843409: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704843409: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704845210: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704845210: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704847011: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704847011: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704848812: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704848812: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704935014: mosquitto version 2.0.18 starting
+1704935014: Config loaded from /mosquitto/config/mosquitto.conf.
+1704935014: Opening ipv4 listen socket on port 1883.
+1704935014: mosquitto version 2.0.18 running
+1704935015: New connection from 192.168.65.1:26183 on port 1883.
+1704935015: New client connected from 192.168.65.1:26183 as Telegraf-Consumer-dYC8T (p2, c1, k60).
+1704935020: New connection from 192.168.65.1:26210 on port 1883.
+1704935020: New client connected from 192.168.65.1:26210 as nodered_abe2a0965a1cce71 (p2, c1, k60).
+1704936815: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704936815: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704938616: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704938616: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704940417: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704940417: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704942218: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704942218: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704944019: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704944019: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704945820: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704945820: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704947621: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704947621: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704949422: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704949422: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704951223: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704951223: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704953024: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704953024: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704954825: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704954825: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704956626: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704956626: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704958427: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704958427: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704960228: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704960228: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704962029: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704962029: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704963830: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704963830: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704965631: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704965631: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704967432: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704967432: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704969233: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704969233: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704971034: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704971034: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704972835: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704972835: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704974636: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704974636: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704976437: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704976437: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704978238: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704978238: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1704980039: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704980039: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705021953: mosquitto version 2.0.18 starting
+1705021953: Config loaded from /mosquitto/config/mosquitto.conf.
+1705021953: Opening ipv4 listen socket on port 1883.
+1705021953: mosquitto version 2.0.18 running
+1705021953: New connection from 192.168.65.1:35690 on port 1883.
+1705021953: New client connected from 192.168.65.1:35690 as Telegraf-Consumer-SRmyx (p2, c1, k60).
+1705021969: New connection from 192.168.65.1:35719 on port 1883.
+1705021969: New client connected from 192.168.65.1:35719 as nodered_c72258f5d1c8bb65 (p2, c1, k60).
+1705023753: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705023753: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705023870: New connection from 192.168.65.1:37335 on port 1883.
+1705023870: New client connected from 192.168.65.1:37335 as publish-826 (p2, c1, k60).
+1705023882: New connection from 192.168.65.1:37345 on port 1883.
+1705023882: New client connected from 192.168.65.1:37345 as publish-522 (p2, c1, k60).
+1705023882: Client publish-522 closed its connection.
+1705023882: Client publish-826 closed its connection.
+1705025554: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705025554: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705027355: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705027355: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705027570: Client Telegraf-Consumer-SRmyx closed its connection.
+1705027570: Client nodered_c72258f5d1c8bb65 closed its connection.
+1705027585: New connection from 192.168.65.1:40654 on port 1883.
+1705027585: New client connected from 192.168.65.1:40654 as nodered_c72258f5d1c8bb65 (p2, c1, k60).
+1705027620: New connection from 192.168.65.1:40681 on port 1883.
+1705027620: New client connected from 192.168.65.1:40681 as Telegraf-Consumer-SRmyx (p2, c1, k60).
+1705027769: Client nodered_c72258f5d1c8bb65 closed its connection.
+1705027769: Client Telegraf-Consumer-SRmyx closed its connection.
+1705028750: New connection from 192.168.65.1:41641 on port 1883.
+1705028750: New client connected from 192.168.65.1:41641 as ESP32Client (p2, c1, k15).
+1705028750: New connection from 192.168.65.1:41642 on port 1883.
+1705028750: Client ESP32Client closed its connection.
+1705028750: New client connected from 192.168.65.1:41642 as ESP32Client (p2, c1, k15).
+1705028750: Client ESP32Client closed its connection.
+1705028751: New connection from 192.168.65.1:41643 on port 1883.
+1705028751: New connection from 192.168.65.1:41644 on port 1883.
+1705028751: New client connected from 192.168.65.1:41643 as ESP32Client (p2, c1, k15).
+1705028751: Client <unknown> closed its connection.
+1705028751: Client ESP32Client closed its connection.
+1705028768: New connection from 192.168.65.1:41645 on port 1883.
+1705028768: New connection from 192.168.65.1:41646 on port 1883.
+1705028768: New client connected from 192.168.65.1:41646 as ESP32Client (p2, c1, k15).
+1705028768: Client ESP32Client closed its connection.
+1705028768: New client connected from 192.168.65.1:41645 as ESP32Client (p2, c1, k15).
+1705028783: Client ESP32Client closed its connection.
+1705028783: New connection from 192.168.65.1:41649 on port 1883.
+1705028783: New client connected from 192.168.65.1:41649 as ESP32Client (p2, c1, k15).
+1705028812: Client ESP32Client has exceeded timeout, disconnecting.
+1705028812: New connection from 192.168.65.1:41650 on port 1883.
+1705028812: New client connected from 192.168.65.1:41650 as ESP32Client (p2, c1, k15).
+1705028836: Client ESP32Client has exceeded timeout, disconnecting.
+1705028836: New connection from 192.168.65.1:41651 on port 1883.
+1705028836: New client connected from 192.168.65.1:41651 as ESP32Client (p2, c1, k15).
+1705028860: Client ESP32Client has exceeded timeout, disconnecting.
+1705028860: New connection from 192.168.65.1:41652 on port 1883.
+1705028860: New client connected from 192.168.65.1:41652 as ESP32Client (p2, c1, k15).
+1705028884: Client ESP32Client has exceeded timeout, disconnecting.
+1705028884: New connection from 192.168.65.1:41653 on port 1883.
+1705028884: New client connected from 192.168.65.1:41653 as ESP32Client (p2, c1, k15).
+1705028908: Client ESP32Client has exceeded timeout, disconnecting.
+1705028908: New connection from 192.168.65.1:41654 on port 1883.
+1705028908: New client connected from 192.168.65.1:41654 as ESP32Client (p2, c1, k15).
+1705028932: Client ESP32Client has exceeded timeout, disconnecting.
+1705028932: New connection from 192.168.65.1:41655 on port 1883.
+1705028932: New client connected from 192.168.65.1:41655 as ESP32Client (p2, c1, k15).
+1705028956: Client ESP32Client has exceeded timeout, disconnecting.
+1705028956: New connection from 192.168.65.1:41656 on port 1883.
+1705028956: New client connected from 192.168.65.1:41656 as ESP32Client (p2, c1, k15).
+1705028980: Client ESP32Client has exceeded timeout, disconnecting.
+1705028980: New connection from 192.168.65.1:41657 on port 1883.
+1705028980: New client connected from 192.168.65.1:41657 as ESP32Client (p2, c1, k15).
+1705029004: Client ESP32Client has exceeded timeout, disconnecting.
+1705029004: New connection from 192.168.65.1:41658 on port 1883.
+1705029004: New client connected from 192.168.65.1:41658 as ESP32Client (p2, c1, k15).
+1705029028: Client ESP32Client has exceeded timeout, disconnecting.
+1705029028: New connection from 192.168.65.1:41659 on port 1883.
+1705029028: New client connected from 192.168.65.1:41659 as ESP32Client (p2, c1, k15).
+1705029052: Client ESP32Client has exceeded timeout, disconnecting.
+1705029052: New connection from 192.168.65.1:41660 on port 1883.
+1705029052: New client connected from 192.168.65.1:41660 as ESP32Client (p2, c1, k15).
+1705029076: Client ESP32Client has exceeded timeout, disconnecting.
+1705029076: New connection from 192.168.65.1:41661 on port 1883.
+1705029076: New client connected from 192.168.65.1:41661 as ESP32Client (p2, c1, k15).
+1705029100: Client ESP32Client has exceeded timeout, disconnecting.
+1705029100: New connection from 192.168.65.1:41662 on port 1883.
+1705029100: New client connected from 192.168.65.1:41662 as ESP32Client (p2, c1, k15).
+1705029124: Client ESP32Client has exceeded timeout, disconnecting.
+1705029124: New connection from 192.168.65.1:41663 on port 1883.
+1705029124: New client connected from 192.168.65.1:41663 as ESP32Client (p2, c1, k15).
+1705029148: Client ESP32Client has exceeded timeout, disconnecting.
+1705029148: New connection from 192.168.65.1:41676 on port 1883.
+1705029148: New client connected from 192.168.65.1:41676 as ESP32Client (p2, c1, k15).
+1705029156: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705029156: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705029172: Client ESP32Client has exceeded timeout, disconnecting.
+1705029172: New connection from 192.168.65.1:41677 on port 1883.
+1705029172: New client connected from 192.168.65.1:41677 as ESP32Client (p2, c1, k15).
+1705029196: Client ESP32Client has exceeded timeout, disconnecting.
+1705029196: New connection from 192.168.65.1:41678 on port 1883.
+1705029196: New client connected from 192.168.65.1:41678 as ESP32Client (p2, c1, k15).
+1705029220: Client ESP32Client has exceeded timeout, disconnecting.
+1705029220: New connection from 192.168.65.1:41679 on port 1883.
+1705029220: New client connected from 192.168.65.1:41679 as ESP32Client (p2, c1, k15).
+1705029244: Client ESP32Client has exceeded timeout, disconnecting.
+1705029244: New connection from 192.168.65.1:41680 on port 1883.
+1705029244: New client connected from 192.168.65.1:41680 as ESP32Client (p2, c1, k15).
+1705029268: Client ESP32Client has exceeded timeout, disconnecting.
+1705029268: New connection from 192.168.65.1:41681 on port 1883.
+1705029268: New client connected from 192.168.65.1:41681 as ESP32Client (p2, c1, k15).
+1705029292: Client ESP32Client has exceeded timeout, disconnecting.
+1705029292: New connection from 192.168.65.1:41682 on port 1883.
+1705029292: New client connected from 192.168.65.1:41682 as ESP32Client (p2, c1, k15).
+1705029316: Client ESP32Client has exceeded timeout, disconnecting.
+1705029316: New connection from 192.168.65.1:41683 on port 1883.
+1705029316: New client connected from 192.168.65.1:41683 as ESP32Client (p2, c1, k15).
+1705029340: Client ESP32Client has exceeded timeout, disconnecting.
+1705029340: New connection from 192.168.65.1:41684 on port 1883.
+1705029340: New client connected from 192.168.65.1:41684 as ESP32Client (p2, c1, k15).
+1705029364: Client ESP32Client has exceeded timeout, disconnecting.
+1705029364: New connection from 192.168.65.1:41685 on port 1883.
+1705029364: New client connected from 192.168.65.1:41685 as ESP32Client (p2, c1, k15).
+1705029388: Client ESP32Client has exceeded timeout, disconnecting.
+1705029388: New connection from 192.168.65.1:41686 on port 1883.
+1705029388: New client connected from 192.168.65.1:41686 as ESP32Client (p2, c1, k15).
+1705029412: Client ESP32Client has exceeded timeout, disconnecting.
+1705029412: New connection from 192.168.65.1:41687 on port 1883.
+1705029412: New client connected from 192.168.65.1:41687 as ESP32Client (p2, c1, k15).
+1705029436: Client ESP32Client has exceeded timeout, disconnecting.
+1705029436: New connection from 192.168.65.1:41688 on port 1883.
+1705029436: New client connected from 192.168.65.1:41688 as ESP32Client (p2, c1, k15).
+1705029460: Client ESP32Client has exceeded timeout, disconnecting.
+1705029460: New connection from 192.168.65.1:41689 on port 1883.
+1705029460: New client connected from 192.168.65.1:41689 as ESP32Client (p2, c1, k15).
+1705029484: Client ESP32Client has exceeded timeout, disconnecting.
+1705029484: New connection from 192.168.65.1:41690 on port 1883.
+1705029484: New client connected from 192.168.65.1:41690 as ESP32Client (p2, c1, k15).
+1705029508: Client ESP32Client has exceeded timeout, disconnecting.
+1705029508: New connection from 192.168.65.1:41691 on port 1883.
+1705029508: New client connected from 192.168.65.1:41691 as ESP32Client (p2, c1, k15).
+1705029532: Client ESP32Client has exceeded timeout, disconnecting.
+1705029532: New connection from 192.168.65.1:41692 on port 1883.
+1705029532: New client connected from 192.168.65.1:41692 as ESP32Client (p2, c1, k15).
+1705029556: Client ESP32Client has exceeded timeout, disconnecting.
+1705029556: New connection from 192.168.65.1:41693 on port 1883.
+1705029556: New client connected from 192.168.65.1:41693 as ESP32Client (p2, c1, k15).
+1705029580: Client ESP32Client has exceeded timeout, disconnecting.
+1705029580: New connection from 192.168.65.1:41694 on port 1883.
+1705029580: New client connected from 192.168.65.1:41694 as ESP32Client (p2, c1, k15).
+1705029604: Client ESP32Client has exceeded timeout, disconnecting.
+1705029604: New connection from 192.168.65.1:41695 on port 1883.
+1705029604: New client connected from 192.168.65.1:41695 as ESP32Client (p2, c1, k15).
+1705029628: Client ESP32Client has exceeded timeout, disconnecting.
+1705029628: New connection from 192.168.65.1:41696 on port 1883.
+1705029628: New client connected from 192.168.65.1:41696 as ESP32Client (p2, c1, k15).
+1705029652: Client ESP32Client has exceeded timeout, disconnecting.
+1705029652: New connection from 192.168.65.1:41697 on port 1883.
+1705029652: New client connected from 192.168.65.1:41697 as ESP32Client (p2, c1, k15).
+1705029676: Client ESP32Client has exceeded timeout, disconnecting.
+1705029676: New connection from 192.168.65.1:41698 on port 1883.
+1705029676: New client connected from 192.168.65.1:41698 as ESP32Client (p2, c1, k15).
+1705029700: Client ESP32Client has exceeded timeout, disconnecting.
+1705029700: New connection from 192.168.65.1:41699 on port 1883.
+1705029700: New client connected from 192.168.65.1:41699 as ESP32Client (p2, c1, k15).
+1705029724: Client ESP32Client has exceeded timeout, disconnecting.
+1705029724: New connection from 192.168.65.1:41700 on port 1883.
+1705029724: New client connected from 192.168.65.1:41700 as ESP32Client (p2, c1, k15).
+1705029748: Client ESP32Client has exceeded timeout, disconnecting.
+1705029748: New connection from 192.168.65.1:41701 on port 1883.
+1705029748: New client connected from 192.168.65.1:41701 as ESP32Client (p2, c1, k15).
+1705029772: Client ESP32Client has exceeded timeout, disconnecting.
+1705029772: New connection from 192.168.65.1:41702 on port 1883.
+1705029772: New client connected from 192.168.65.1:41702 as ESP32Client (p2, c1, k15).
+1705029796: Client ESP32Client has exceeded timeout, disconnecting.
+1705029796: New connection from 192.168.65.1:41703 on port 1883.
+1705029796: New client connected from 192.168.65.1:41703 as ESP32Client (p2, c1, k15).
+1705029820: Client ESP32Client has exceeded timeout, disconnecting.
+1705029820: New connection from 192.168.65.1:41704 on port 1883.
+1705029820: New client connected from 192.168.65.1:41704 as ESP32Client (p2, c1, k15).
+1705029844: Client ESP32Client has exceeded timeout, disconnecting.
+1705029844: New connection from 192.168.65.1:41705 on port 1883.
+1705029844: New client connected from 192.168.65.1:41705 as ESP32Client (p2, c1, k15).
+1705029868: Client ESP32Client has exceeded timeout, disconnecting.
+1705029868: New connection from 192.168.65.1:41706 on port 1883.
+1705029868: New client connected from 192.168.65.1:41706 as ESP32Client (p2, c1, k15).
+1705029892: Client ESP32Client has exceeded timeout, disconnecting.
+1705029892: New connection from 192.168.65.1:41707 on port 1883.
+1705029892: New client connected from 192.168.65.1:41707 as ESP32Client (p2, c1, k15).
+1705029916: Client ESP32Client has exceeded timeout, disconnecting.
+1705029916: New connection from 192.168.65.1:41708 on port 1883.
+1705029916: New client connected from 192.168.65.1:41708 as ESP32Client (p2, c1, k15).
+1705029940: Client ESP32Client has exceeded timeout, disconnecting.
+1705029940: New connection from 192.168.65.1:41709 on port 1883.
+1705029940: New client connected from 192.168.65.1:41709 as ESP32Client (p2, c1, k15).
+1705029964: Client ESP32Client has exceeded timeout, disconnecting.
+1705029964: New connection from 192.168.65.1:41710 on port 1883.
+1705029964: New client connected from 192.168.65.1:41710 as ESP32Client (p2, c1, k15).
+1705029988: Client ESP32Client has exceeded timeout, disconnecting.
+1705029988: New connection from 192.168.65.1:41711 on port 1883.
+1705029988: New client connected from 192.168.65.1:41711 as ESP32Client (p2, c1, k15).
+1705030012: Client ESP32Client has exceeded timeout, disconnecting.
+1705030012: New connection from 192.168.65.1:41712 on port 1883.
+1705030012: New client connected from 192.168.65.1:41712 as ESP32Client (p2, c1, k15).
+1705030036: Client ESP32Client has exceeded timeout, disconnecting.
+1705030036: New connection from 192.168.65.1:41713 on port 1883.
+1705030036: New client connected from 192.168.65.1:41713 as ESP32Client (p2, c1, k15).
+1705030060: Client ESP32Client has exceeded timeout, disconnecting.
+1705030060: New connection from 192.168.65.1:41726 on port 1883.
+1705030060: New client connected from 192.168.65.1:41726 as ESP32Client (p2, c1, k15).
+1705030084: Client ESP32Client has exceeded timeout, disconnecting.
+1705030084: New connection from 192.168.65.1:41727 on port 1883.
+1705030084: New client connected from 192.168.65.1:41727 as ESP32Client (p2, c1, k15).
+1705030108: Client ESP32Client has exceeded timeout, disconnecting.
+1705030108: New connection from 192.168.65.1:41728 on port 1883.
+1705030108: New client connected from 192.168.65.1:41728 as ESP32Client (p2, c1, k15).
+1705030132: Client ESP32Client has exceeded timeout, disconnecting.
+1705030132: New connection from 192.168.65.1:41729 on port 1883.
+1705030132: New client connected from 192.168.65.1:41729 as ESP32Client (p2, c1, k15).
+1705030156: Client ESP32Client has exceeded timeout, disconnecting.
+1705030957: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705030957: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705032758: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705032758: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705034559: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705034559: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705034619: New connection from 192.168.65.1:41790 on port 1883.
+1705034619: New client connected from 192.168.65.1:41790 as mqtt-explorer-0ada633a (p2, c1, k60).
+1705036360: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705036360: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705038161: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705038161: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705039962: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705039962: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705041288: New connection from 192.168.65.1:41875 on port 1883.
+1705041288: New client connected from 192.168.65.1:41875 as ESP32Client (p2, c1, k15).
+1705041288: Client ESP32Client closed its connection.
+1705041288: New connection from 192.168.65.1:41876 on port 1883.
+1705041288: New client connected from 192.168.65.1:41876 as ESP32Client (p2, c1, k15).
+1705041292: New connection from 192.168.65.1:41877 on port 1883.
+1705041292: New connection from 192.168.65.1:41878 on port 1883.
+1705041292: Client <unknown> closed its connection.
+1705041292: Client ESP32Client already connected, closing old connection.
+1705041292: New client connected from 192.168.65.1:41877 as ESP32Client (p2, c1, k15).
+1705041307: Client ESP32Client closed its connection.
+1705041307: New connection from 192.168.65.1:41879 on port 1883.
+1705041307: New client connected from 192.168.65.1:41879 as ESP32Client (p2, c1, k15).
+1705041334: Client ESP32Client has exceeded timeout, disconnecting.
+1705041334: New connection from 192.168.65.1:41880 on port 1883.
+1705041334: New client connected from 192.168.65.1:41880 as ESP32Client (p2, c1, k15).
+1705041358: Client ESP32Client has exceeded timeout, disconnecting.
+1705041445: New connection from 192.168.65.1:41881 on port 1883.
+1705041445: New connection from 192.168.65.1:41882 on port 1883.
+1705041445: New client connected from 192.168.65.1:41881 as ESP32Client (p2, c1, k15).
+1705041445: Client ESP32Client closed its connection.
+1705041445: New client connected from 192.168.65.1:41882 as ESP32Client (p2, c1, k15).
+1705041446: Client ESP32Client closed its connection.
+1705041446: New connection from 192.168.65.1:41883 on port 1883.
+1705041446: New client connected from 192.168.65.1:41883 as ESP32Client (p2, c1, k15).
+1705041478: Client ESP32Client has exceeded timeout, disconnecting.
+1705041478: New connection from 192.168.65.1:41884 on port 1883.
+1705041478: New client connected from 192.168.65.1:41884 as ESP32Client (p2, c1, k15).
+1705041502: Client ESP32Client has exceeded timeout, disconnecting.
+1705041503: New connection from 192.168.65.1:41885 on port 1883.
+1705041503: New client connected from 192.168.65.1:41885 as ESP32Client (p2, c1, k15).
+1705041526: Client ESP32Client has exceeded timeout, disconnecting.
+1705041526: New connection from 192.168.65.1:41886 on port 1883.
+1705041526: New client connected from 192.168.65.1:41886 as ESP32Client (p2, c1, k15).
+1705041550: Client ESP32Client has exceeded timeout, disconnecting.
+1705041550: New connection from 192.168.65.1:41887 on port 1883.
+1705041550: New client connected from 192.168.65.1:41887 as ESP32Client (p2, c1, k15).
+1705041574: Client ESP32Client has exceeded timeout, disconnecting.
+1705041763: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705041763: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705043564: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705043564: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705045365: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705045365: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705047166: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705047166: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705048033: New connection from 192.168.65.1:42097 on port 1883.
+1705048033: New client connected from 192.168.65.1:42097 as publish-544 (p2, c1, k60).
+1705048086: New connection from 192.168.65.1:42163 on port 1883.
+1705048086: New client connected from 192.168.65.1:42163 as publish-979 (p2, c1, k60).
+1705048261: New connection from 192.168.65.1:42309 on port 1883.
+1705048261: New client connected from 192.168.65.1:42309 as ESP32Client (p2, c1, k15).
+1705048261: Client ESP32Client closed its connection.
+1705048262: New connection from 192.168.65.1:42315 on port 1883.
+1705048262: New client connected from 192.168.65.1:42315 as ESP32Client (p2, c1, k15).
+1705048262: Client ESP32Client closed its connection.
+1705048262: New connection from 192.168.65.1:42316 on port 1883.
+1705048262: New client connected from 192.168.65.1:42316 as ESP32Client (p2, c1, k15).
+1705048320: Client publish-979 closed its connection.
+1705048967: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705048967: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705050076: Client ESP32Client has exceeded timeout, disconnecting.
+1705050076: New connection from 192.168.65.1:43948 on port 1883.
+1705050076: New client connected from 192.168.65.1:43948 as ESP32Client (p2, c1, k15).
+1705050100: Client ESP32Client has exceeded timeout, disconnecting.
+1705050100: New connection from 192.168.65.1:43975 on port 1883.
+1705050100: New client connected from 192.168.65.1:43975 as ESP32Client (p2, c1, k15).
+1705050124: Client ESP32Client has exceeded timeout, disconnecting.
+1705050124: New connection from 192.168.65.1:43994 on port 1883.
+1705050124: New client connected from 192.168.65.1:43994 as ESP32Client (p2, c1, k15).
+1705050148: Client ESP32Client has exceeded timeout, disconnecting.
+1705050148: New connection from 192.168.65.1:44017 on port 1883.
+1705050148: New client connected from 192.168.65.1:44017 as ESP32Client (p2, c1, k15).
+1705050172: Client ESP32Client has exceeded timeout, disconnecting.
+1705050172: New connection from 192.168.65.1:44044 on port 1883.
+1705050172: New client connected from 192.168.65.1:44044 as ESP32Client (p2, c1, k15).
+1705050196: Client ESP32Client has exceeded timeout, disconnecting.
+1705050196: New connection from 192.168.65.1:44059 on port 1883.
+1705050196: New client connected from 192.168.65.1:44059 as ESP32Client (p2, c1, k15).
+1705050220: Client ESP32Client has exceeded timeout, disconnecting.
+1705050220: New connection from 192.168.65.1:44086 on port 1883.
+1705050220: New client connected from 192.168.65.1:44086 as ESP32Client (p2, c1, k15).
+1705050244: Client ESP32Client has exceeded timeout, disconnecting.
+1705050244: New connection from 192.168.65.1:44105 on port 1883.
+1705050244: New client connected from 192.168.65.1:44105 as ESP32Client (p2, c1, k15).
+1705050268: Client ESP32Client has exceeded timeout, disconnecting.
+1705050268: New connection from 192.168.65.1:44128 on port 1883.
+1705050268: New client connected from 192.168.65.1:44128 as ESP32Client (p2, c1, k15).
+1705050292: Client ESP32Client has exceeded timeout, disconnecting.
+1705050768: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705050768: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705052569: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705052569: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705054370: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705054370: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705056171: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705056171: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705057972: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705057972: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705059773: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705059773: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705061574: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705061574: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705063375: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705063375: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705065176: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705065176: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705066977: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705066977: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705068778: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705068778: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705070579: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705070579: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705072380: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705072380: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705074181: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705074181: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705075982: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705075982: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705077783: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705077783: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705079584: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705079584: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705081385: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705081385: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705083186: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705083186: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705084987: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705084987: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705086788: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705086788: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705088589: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705088589: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705090390: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705090390: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705092191: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705092191: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705093992: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705093992: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705095793: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705095793: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705097594: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705097594: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705099395: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705099395: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705101196: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705101196: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705102997: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705102997: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705104798: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705104798: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705106599: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705106599: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705108400: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705108400: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705110201: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705110201: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705112002: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705112002: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705113803: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705113803: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705115604: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705115604: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705117405: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705117405: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705119206: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705119206: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705121007: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705121007: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705122808: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705122808: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705124609: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705124609: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705126410: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705126410: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705128211: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705128211: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705130012: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705130012: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705131813: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705131813: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705133614: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705133614: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705135415: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705135415: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705137216: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705137216: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705139017: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705139017: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705140818: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705140818: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705142619: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705142619: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705144420: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705144420: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705146221: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705146221: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705148022: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705148022: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705149823: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705149823: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705151624: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705151624: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705153425: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705153425: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705155226: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705155226: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705157027: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705157027: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705158828: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705158828: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705160629: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705160629: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705162430: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705162430: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705164231: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705164231: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705166032: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705166032: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705167833: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705167833: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705169634: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705169634: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705171435: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705171435: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705173236: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705173236: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705175037: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705175037: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705176838: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705176838: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705178639: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705178639: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705180440: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705180440: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705182241: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705182241: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705184042: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705184042: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705185843: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705185843: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705187644: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705187644: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705189445: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705189445: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705191246: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705191246: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705193047: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705193047: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705194848: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705194848: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705196649: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705196649: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705198450: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705198450: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705200251: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705200251: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705202052: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705202052: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705203853: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705203853: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705205654: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705205654: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705207455: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705207455: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705209256: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705209256: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705211057: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705211057: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705212858: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705212858: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705214659: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705214659: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705216460: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705216460: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705218261: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705218261: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705220062: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705220062: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705221863: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705221863: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705223664: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705223664: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705225465: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705225465: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705227266: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705227266: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705229067: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705229067: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705230868: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705230868: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705232669: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705232669: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705234470: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705234470: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705236271: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705236271: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705238072: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705238072: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705239873: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705239873: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705241674: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705241674: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705243475: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705243475: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705245276: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705245276: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705247077: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705247077: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705248878: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705248878: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705250679: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705250679: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705252480: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705252480: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705254281: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705254281: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705256082: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705256082: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705257883: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705257883: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705259684: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705259684: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705261485: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705261485: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705263286: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705263286: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705265087: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705265087: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705266888: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705266888: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705268689: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705268689: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705270490: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705270490: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705272291: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705272291: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705274092: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705274092: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705275893: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705275893: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705277694: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705277694: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705279495: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705279495: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705280403: Client mqtt-explorer-0ada633a disconnected.
+1705281296: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705281296: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705283097: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705283097: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705284898: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705284898: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705286699: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705286699: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705288500: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705288500: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705290301: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705290301: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705292102: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705292102: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705293903: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705293903: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705295704: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705295704: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705295718: New connection from 192.168.65.1:65515 on port 1883.
+1705295718: New client connected from 192.168.65.1:65515 as ESP32Client (p2, c1, k15).
+1705295718: Client ESP32Client closed its connection.
+1705295718: New connection from 192.168.65.1:65516 on port 1883.
+1705295718: New client connected from 192.168.65.1:65516 as ESP32Client (p2, c1, k15).
+1705295734: New connection from 192.168.65.1:65530 on port 1883.
+1705295734: New connection from 192.168.65.1:65531 on port 1883.
+1705295734: Client ESP32Client already connected, closing old connection.
+1705295734: New client connected from 192.168.65.1:65530 as ESP32Client (p2, c1, k15).
+1705295734: Client ESP32Client already connected, closing old connection.
+1705295734: New client connected from 192.168.65.1:65531 as ESP32Client (p2, c1, k15).
+1705295749: Client ESP32Client closed its connection.
+1705295751: New connection from 192.168.65.1:16009 on port 1883.
+1705295751: New client connected from 192.168.65.1:16009 as ESP32Client (p2, c1, k15).
+1705295776: Client ESP32Client has exceeded timeout, disconnecting.
+1705295776: New connection from 192.168.65.1:16037 on port 1883.
+1705295776: New client connected from 192.168.65.1:16037 as ESP32Client (p2, c1, k15).
+1705295784: New connection from 192.168.65.1:16038 on port 1883.
+1705295784: New connection from 192.168.65.1:16039 on port 1883.
+1705295784: Client <unknown> closed its connection.
+1705295784: Client <unknown> closed its connection.
+1705295800: Client ESP32Client has exceeded timeout, disconnecting.
+1705295800: New connection from 192.168.65.1:16053 on port 1883.
+1705295800: New connection from 192.168.65.1:16054 on port 1883.
+1705295800: New client connected from 192.168.65.1:16054 as ESP32Client (p2, c1, k15).
+1705295800: Client ESP32Client closed its connection.
+1705295800: New client connected from 192.168.65.1:16053 as ESP32Client (p2, c1, k15).
+1705295803: New connection from 192.168.65.1:16059 on port 1883.
+1705295803: New connection from 192.168.65.1:16060 on port 1883.
+1705295803: Client ESP32Client already connected, closing old connection.
+1705295803: New client connected from 192.168.65.1:16059 as ESP32Client (p2, c1, k15).
+1705295803: Client ESP32Client already connected, closing old connection.
+1705295803: New client connected from 192.168.65.1:16060 as ESP32Client (p2, c1, k15).
+1705295822: Client ESP32Client closed its connection.
+1705297505: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705297505: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705299306: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705299306: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705301107: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705301107: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705302908: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705302908: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705304709: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705304709: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705306510: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705306510: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705308311: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705308311: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705310112: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705310112: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705311913: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705311913: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705313714: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705313714: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705315515: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705315515: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705317316: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705317316: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705319117: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705319117: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705320918: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705320918: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705322719: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705322719: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705324520: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705324520: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705326321: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705326321: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705328122: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705328122: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705329923: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705329923: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705331724: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705331724: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705386490: mosquitto version 2.0.18 starting
+1705386490: Config loaded from /mosquitto/config/mosquitto.conf.
+1705386490: Opening ipv4 listen socket on port 1883.
+1705386490: mosquitto version 2.0.18 running
+1705387120: New connection from 192.168.65.1:27093 on port 1883.
+1705387120: New client connected from 192.168.65.1:27093 as nodered_79bc4ae76b032272 (p2, c1, k60).
+1705387167: Client nodered_79bc4ae76b032272 disconnected.
+1705387167: New connection from 192.168.65.1:27141 on port 1883.
+1705387167: New client connected from 192.168.65.1:27141 as nodered_a08f102bb2a4d9b5 (p2, c1, k60).
+1705387225: Client nodered_a08f102bb2a4d9b5 disconnected.
+1705387225: New connection from 192.168.65.1:27202 on port 1883.
+1705387225: New client connected from 192.168.65.1:27202 as nodered_d511de21655c650e (p2, c1, k60).
+1705387239: Client nodered_d511de21655c650e disconnected.
+1705387239: New connection from 192.168.65.1:27219 on port 1883.
+1705387239: New client connected from 192.168.65.1:27219 as nodered_2ab09a737a5a9fa4 (p2, c1, k60).
+1705387693: New connection from 192.168.65.1:27696 on port 1883.
+1705387693: New client connected from 192.168.65.1:27696 as publish-301 (p2, c1, k60).
+1705387699: New connection from 192.168.65.1:27697 on port 1883.
+1705387699: New client connected from 192.168.65.1:27697 as publish-825 (p2, c1, k60).
+1705387699: Client publish-301 closed its connection.
+1705387706: New connection from 192.168.65.1:27711 on port 1883.
+1705387706: New client connected from 192.168.65.1:27711 as publish-838 (p2, c1, k60).
+1705387706: Client publish-838 closed its connection.
+1705387706: Client publish-825 closed its connection.
+1705388262: New connection from 192.168.65.1:27945 on port 1883.
+1705388262: New client connected from 192.168.65.1:27945 as Telegraf-Consumer-4joS2 (p2, c1, k60).
+1705388290: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705388290: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705388303: Client Telegraf-Consumer-4joS2 disconnected.
+1705388304: New connection from 192.168.65.1:27974 on port 1883.
+1705388304: New client connected from 192.168.65.1:27974 as Telegraf-Consumer-O3mnM (p2, c1, k60).
+1705388380: New connection from 192.168.65.1:27989 on port 1883.
+1705388380: New client connected from 192.168.65.1:27989 as publish-603 (p2, c1, k60).
+1705388392: New connection from 192.168.65.1:27990 on port 1883.
+1705388392: New client connected from 192.168.65.1:27990 as publish-60 (p2, c1, k60).
+1705388392: Client publish-60 closed its connection.
+1705388392: Client publish-603 closed its connection.
+1705390091: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705390091: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705391892: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705391892: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705393693: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705393693: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705395494: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705395494: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705397295: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705397295: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705399096: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705399096: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705400897: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705400897: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705402698: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705402698: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705404499: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705404499: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705406300: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705406300: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705408101: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705408101: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705409902: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705409902: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705411703: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705411703: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705413504: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705413504: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705415305: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705415305: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705417106: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705417106: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705418907: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705418907: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705420708: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705420708: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705422509: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705422509: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705424310: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705424310: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705426111: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705426111: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705427912: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705427912: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705429713: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705429713: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705431514: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705431514: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705433315: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705433315: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705435116: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705435116: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705436917: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705436917: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705438718: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705438718: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705440519: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705440519: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705442320: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705442320: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705444121: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705444121: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705445922: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705445922: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705447723: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705447723: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705449524: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705449524: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705451325: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705451325: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705453126: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705453126: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705454927: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705454927: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705456728: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705456728: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705458045: New connection from 192.168.65.1:30313 on port 1883.
+1705458045: New client connected from 192.168.65.1:30313 as publish-37 (p2, c1, k60).
+1705458056: New connection from 192.168.65.1:30327 on port 1883.
+1705458056: New client connected from 192.168.65.1:30327 as publish-869 (p2, c1, k60).
+1705458056: Client publish-869 closed its connection.
+1705458056: Client publish-37 closed its connection.
+1705458319: Client nodered_2ab09a737a5a9fa4 disconnected.
+1705458319: New connection from 192.168.65.1:30569 on port 1883.
+1705458319: New client connected from 192.168.65.1:30569 as nodered_d70c933b07ab9b24 (p2, c1, k60).
+1705458529: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705458529: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705459025: New connection from 192.168.65.1:31217 on port 1883.
+1705459025: New client connected from 192.168.65.1:31217 as nodered_2391ce774de5749b (p2, c1, k60, u'192.168.1.8\SQLEXPRESS').
+1705459032: New connection from 192.168.65.1:31231 on port 1883.
+1705459032: New client connected from 192.168.65.1:31231 as nodered_7fd3dc6fad67355f (p2, c1, k60).
+1705459055: New connection from 192.168.65.1:31245 on port 1883.
+1705459055: New client connected from 192.168.65.1:31245 as nodered_aa76bdcf94c1e085 (p2, c1, k15).
+1705459108: Client nodered_aa76bdcf94c1e085 disconnected.
+1705459108: New connection from 192.168.65.1:31299 on port 1883.
+1705459108: New client connected from 192.168.65.1:31299 as nodered_604c520a5b3ac090 (p2, c1, k15).
+1705459112: Client nodered_604c520a5b3ac090 disconnected due to malformed packet.
+1705459127: New connection from 192.168.65.1:31313 on port 1883.
+1705459127: New client connected from 192.168.65.1:31313 as nodered_604c520a5b3ac090 (p2, c1, k15).
+1705459139: Client nodered_604c520a5b3ac090 disconnected due to malformed packet.
+1705459146: New connection from 192.168.65.1:31332 on port 1883.
+1705459146: New client connected from 192.168.65.1:31332 as nodered_346f3c6cc3b6e24b (p2, c1, k15).
+1705459659: New connection from 192.168.65.1:31832 on port 1883.
+1705459659: New client connected from 192.168.65.1:31832 as nodered_0e3762b3a446317b (p2, c1, k15).
+1705459659: Client nodered_346f3c6cc3b6e24b disconnected.
+1705459699: Client nodered_7fd3dc6fad67355f disconnected.
+1705459764: New connection from 192.168.65.1:31928 on port 1883.
+1705459764: New client connected from 192.168.65.1:31928 as nodered_3a4e7f33664a0f35 (p2, c1, k60).
+1705459823: Client nodered_3a4e7f33664a0f35 disconnected.
+1705459823: New connection from 192.168.65.1:31982 on port 1883.
+1705459823: New client connected from 192.168.65.1:31982 as nodered_52edcfa37085dde8 (p2, c1, k60).
+1705459833: Client nodered_52edcfa37085dde8 disconnected.
+1705459833: New connection from 192.168.65.1:31992 on port 1883.
+1705459833: New client connected from 192.168.65.1:31992 as nodered_ae5ce4341a334e5f (p2, c1, k60).
+1705460123: New connection from 192.168.65.1:32250 on port 1883.
+1705460123: New client connected from 192.168.65.1:32250 as publish-905 (p2, c1, k60).
+1705460153: Client nodered_2391ce774de5749b disconnected.
+1705460153: New connection from 192.168.65.1:32277 on port 1883.
+1705460153: New client connected from 192.168.65.1:32277 as nodered_a1cfd7ac27e6ebcf (p2, c1, k60, u'192.168.1.8\SQLEXPRESS').
+1705460159: Client nodered_ae5ce4341a334e5f disconnected.
+1705460159: New connection from 192.168.65.1:32287 on port 1883.
+1705460159: New client connected from 192.168.65.1:32287 as nodered_195a3a9bee9c0e06 (p2, c1, k60).
+1705460164: New connection from 192.168.65.1:32289 on port 1883.
+1705460164: New client connected from 192.168.65.1:32289 as publish-76 (p2, c1, k60).
+1705460164: Client publish-76 closed its connection.
+1705460164: Client publish-905 closed its connection.
+1705460177: Client nodered_195a3a9bee9c0e06 disconnected.
+1705460177: New connection from 192.168.65.1:32303 on port 1883.
+1705460177: New client connected from 192.168.65.1:32303 as nodered_d662075bfdb654bb (p2, c1, k60).
+1705460283: Client nodered_d662075bfdb654bb disconnected.
+1705460283: New connection from 192.168.65.1:32414 on port 1883.
+1705460283: New client connected from 192.168.65.1:32414 as nodered_6d9eb89c12f20c52 (p2, c1, k60).
+1705460307: Client nodered_6d9eb89c12f20c52 disconnected.
+1705460307: New connection from 192.168.65.1:32441 on port 1883.
+1705460307: New client connected from 192.168.65.1:32441 as nodered_3581c481728cfc22 (p2, c1, k60).
+1705460330: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705460330: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705460535: Client nodered_3581c481728cfc22 disconnected.
+1705460535: New connection from 192.168.65.1:32646 on port 1883.
+1705460535: New client connected from 192.168.65.1:32646 as nodered_02337dad8fa0fd96 (p2, c1, k60).
+1705460537: New connection from 192.168.65.1:32647 on port 1883.
+1705460537: New client connected from 192.168.65.1:32647 as publish-202 (p2, c1, k60).
+1705460547: New connection from 192.168.65.1:32661 on port 1883.
+1705460547: New client connected from 192.168.65.1:32661 as nodered_da0b2342c6b9e367 (p2, c1, k15).
+1705460547: Client nodered_0e3762b3a446317b disconnected.
+1705460559: New connection from 192.168.65.1:32666 on port 1883.
+1705460559: New client connected from 192.168.65.1:32666 as publish-128 (p2, c1, k60).
+1705460559: Client publish-128 closed its connection.
+1705460559: Client publish-202 closed its connection.
+1705460807: New connection from 192.168.65.1:32904 on port 1883.
+1705460807: New client connected from 192.168.65.1:32904 as publish-245 (p2, c1, k60).
+1705460816: New connection from 192.168.65.1:32909 on port 1883.
+1705460816: New client connected from 192.168.65.1:32909 as publish-725 (p2, c1, k60).
+1705460816: Client publish-725 closed its connection.
+1705460816: Client publish-245 closed its connection.
+1705460963: New connection from 192.168.65.1:33047 on port 1883.
+1705460963: New client connected from 192.168.65.1:33047 as publish-870 (p2, c1, k60).
+1705460963: Client publish-870 closed its connection.
+1705461111: New connection from 192.168.65.1:33186 on port 1883.
+1705461111: New client connected from 192.168.65.1:33186 as publish-106 (p2, c1, k60).
+1705461116: New connection from 192.168.65.1:33191 on port 1883.
+1705461116: New client connected from 192.168.65.1:33191 as publish-36 (p2, c1, k60).
+1705461116: Client publish-36 closed its connection.
+1705461116: Client publish-106 closed its connection.
+1705461178: New connection from 192.168.65.1:33256 on port 1883.
+1705461178: New client connected from 192.168.65.1:33256 as publish-476 (p2, c1, k60).
+1705461178: Client publish-476 closed its connection.
+1705461179: New connection from 192.168.65.1:33257 on port 1883.
+1705461179: New client connected from 192.168.65.1:33257 as publish-859 (p2, c1, k60).
+1705461186: New connection from 192.168.65.1:33272 on port 1883.
+1705461186: New client connected from 192.168.65.1:33272 as publish-76 (p2, c1, k60).
+1705461186: Client publish-76 closed its connection.
+1705461186: Client publish-859 closed its connection.
+1705461223: New connection from 192.168.65.1:33312 on port 1883.
+1705461223: New client connected from 192.168.65.1:33312 as publish-595 (p2, c1, k60).
+1705461225: New connection from 192.168.65.1:33313 on port 1883.
+1705461225: New client connected from 192.168.65.1:33313 as publish-849 (p2, c1, k60).
+1705461225: Client publish-849 closed its connection.
+1705461225: Client publish-595 closed its connection.
+1705461499: New connection from 192.168.65.1:33565 on port 1883.
+1705461499: New client connected from 192.168.65.1:33565 as publish-819 (p2, c1, k60).
+1705461507: New connection from 192.168.65.1:33570 on port 1883.
+1705461507: New client connected from 192.168.65.1:33570 as publish-569 (p2, c1, k60).
+1705461507: Client publish-569 closed its connection.
+1705461507: Client publish-819 closed its connection.
+1705461973: Client nodered_da0b2342c6b9e367 disconnected.
+1705462131: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705462131: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705462291: New connection from 192.168.65.1:34350 on port 1883.
+1705462291: New client connected from 192.168.65.1:34350 as publish-908 (p2, c1, k60).
+1705462307: Client publish-908 closed its connection.
+1705462309: New connection from 192.168.65.1:34367 on port 1883.
+1705462309: New client connected from 192.168.65.1:34367 as publish-864 (p2, c1, k60).
+1705462317: Client publish-864 closed its connection.
+1705462318: New connection from 192.168.65.1:34372 on port 1883.
+1705462318: New client connected from 192.168.65.1:34372 as publish-640 (p2, c1, k60).
+1705462347: New connection from 192.168.65.1:34405 on port 1883.
+1705462347: New client connected from 192.168.65.1:34405 as publish-845 (p2, c1, k60).
+1705462354: New connection from 192.168.65.1:34417 on port 1883.
+1705462354: New client connected from 192.168.65.1:34417 as publish-893 (p2, c1, k60).
+1705462361: Client publish-845 closed its connection.
+1705462361: Client publish-640 closed its connection.
+1705462388: Client publish-893 closed its connection.
+1705462388: New connection from 192.168.65.1:34450 on port 1883.
+1705462388: New client connected from 192.168.65.1:34450 as publish-145 (p2, c1, k60).
+1705462388: Client publish-145 closed its connection.
+1705462482: New connection from 192.168.65.1:34549 on port 1883.
+1705462482: New client connected from 192.168.65.1:34549 as publish-694 (p2, c1, k60).
+1705462499: New connection from 192.168.65.1:34565 on port 1883.
+1705462499: New client connected from 192.168.65.1:34565 as publish-227 (p2, c1, k60).
+1705462499: Client publish-227 closed its connection.
+1705462499: Client publish-694 closed its connection.
+1705462758: New connection from 192.168.65.1:34623 on port 1883.
+1705462758: New client connected from 192.168.65.1:34623 as publish-520 (p2, c1, k60).
+1705462780: New connection from 192.168.65.1:34624 on port 1883.
+1705462780: New client connected from 192.168.65.1:34624 as publish-444 (p2, c1, k60).
+1705462780: Client publish-444 closed its connection.
+1705462780: Client publish-520 closed its connection.
+1705463932: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705463932: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705464036: New connection from 192.168.65.1:34859 on port 1883.
+1705464036: New client connected from 192.168.65.1:34859 as publish-573 (p2, c1, k60).
+1705464048: New connection from 192.168.65.1:34860 on port 1883.
+1705464048: New client connected from 192.168.65.1:34860 as publish-793 (p2, c1, k60).
+1705464048: Client publish-793 closed its connection.
+1705464048: Client publish-573 closed its connection.
+1705464652: New connection from 192.168.65.1:34914 on port 1883.
+1705464652: New client connected from 192.168.65.1:34914 as publish-617 (p2, c1, k60).
+1705464742: New connection from 192.168.65.1:34920 on port 1883.
+1705464742: New client connected from 192.168.65.1:34920 as nodered_da0b2342c6b9e367 (p2, c1, k15).
+1705464786: New connection from 192.168.65.1:34935 on port 1883.
+1705464786: New client connected from 192.168.65.1:34935 as publish-364 (p2, c1, k60).
+1705464803: New connection from 192.168.65.1:34936 on port 1883.
+1705464803: New client connected from 192.168.65.1:34936 as publish-6 (p2, c1, k60).
+1705464803: Client publish-6 closed its connection.
+1705464803: Client publish-617 disconnected.
+1705464803: Client publish-364 closed its connection.
+1705464804: New connection from 192.168.65.1:34937 on port 1883.
+1705464804: New client connected from 192.168.65.1:34937 as publish-974 (p2, c1, k60).
+1705464804: Client publish-974 closed its connection.
+1705465733: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705465733: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705467534: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705467534: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705468635: New connection from 192.168.65.1:36733 on port 1883.
+1705468635: New client connected from 192.168.65.1:36733 as publish-602 (p2, c1, k60).
+1705468640: New connection from 192.168.65.1:36734 on port 1883.
+1705468640: New client connected from 192.168.65.1:36734 as publish-144 (p2, c1, k60).
+1705468640: Client publish-144 closed its connection.
+1705468640: Client publish-602 closed its connection.
+1705469268: Client nodered_da0b2342c6b9e367 has exceeded timeout, disconnecting.
+1705469335: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705469335: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705471136: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705471136: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705472937: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705472937: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705472968: New connection from 192.168.65.1:41262 on port 1883.
+1705472968: New client connected from 192.168.65.1:41262 as nodered_da0b2342c6b9e367 (p2, c1, k15).
+1705473378: Client nodered_a1cfd7ac27e6ebcf closed its connection.
+1705474316: New connection from 192.168.65.1:42669 on port 1883.
+1705474316: New client connected from 192.168.65.1:42669 as nodered_a1cfd7ac27e6ebcf (p2, c1, k60, u'192.168.1.8\SQLEXPRESS').
+1705474338: Client nodered_a1cfd7ac27e6ebcf closed its connection.
+1705474609: New connection from 192.168.65.1:42965 on port 1883.
+1705474609: New client connected from 192.168.65.1:42965 as nodered_647b3ae61ddd4cb2 (p2, c1, k60, u'192.168.1.8\SQLEXPRESS').
+1705474620: Client nodered_647b3ae61ddd4cb2 disconnected.
+1705474738: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705474738: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705476539: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705476539: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705478340: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705478340: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705480141: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705480141: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705481942: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705481942: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705482295: Client nodered_da0b2342c6b9e367 disconnected.
+1705483329: Client nodered_02337dad8fa0fd96 disconnected.
+1705483743: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705483743: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705485544: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705485544: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705487345: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705487345: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705489146: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705489146: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705490947: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705490947: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705492748: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705492748: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705494549: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705494549: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705496350: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705496350: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705496637: Client Telegraf-Consumer-O3mnM closed its connection.
+1705496637: Client nodered_d70c933b07ab9b24 closed its connection.
+1705498151: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705498151: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705499952: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705499952: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705501753: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705501753: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705503554: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705503554: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705505355: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705505355: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705507156: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705507156: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705508957: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705508957: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705510758: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705510758: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705512559: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705512559: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705514360: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705514360: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705516161: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705516161: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705517962: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705517962: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705519763: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705519763: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705521564: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705521564: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705523365: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705523365: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1705525166: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1705525166: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1706252821: mosquitto version 2.0.18 starting
+1706252821: Config loaded from /mosquitto/config/mosquitto.conf.
+1706252821: Opening ipv4 listen socket on port 1883.
+1706252821: mosquitto version 2.0.18 running
+1706882065: mosquitto version 2.0.18 starting
+1706882065: Config loaded from /mosquitto/config/mosquitto.conf.
+1706882065: Opening ipv4 listen socket on port 1883.
+1706882065: mosquitto version 2.0.18 running
+1706882466: mosquitto version 2.0.18 terminating
+1706882466: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1706882486: mosquitto version 2.0.18 starting
+1706882486: Config loaded from /mosquitto/config/mosquitto.conf.
+1706882486: Opening ipv4 listen socket on port 1883.
+1706882486: mosquitto version 2.0.18 running
+1706882711: New connection from 172.18.0.1:48144 on port 1883.
+1706882711: New client connected from 172.18.0.1:48144 as Telegraf-Consumer-IHxn0 (p2, c1, k60).
+1706883303: New connection from 172.18.0.1:47926 on port 1883.
+1706883303: New client connected from 172.18.0.1:47926 as nodered_31b8e4b52983648a (p2, c1, k60).
+1706884286: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1706884424: New connection from 172.18.0.1:37708 on port 1883.
+1706884424: New client connected from 172.18.0.1:37708 as publish-186 (p2, c1, k60).
+1706884429: New connection from 172.18.0.1:37716 on port 1883.
+1706884429: New client connected from 172.18.0.1:37716 as publish-716 (p2, c1, k60).
+1706884429: Client publish-716 closed its connection.
+1706884429: Client publish-186 closed its connection.
+1706884430: New connection from 172.18.0.1:37720 on port 1883.
+1706884430: New client connected from 172.18.0.1:37720 as publish-434 (p2, c1, k60).
+1706884442: Client nodered_31b8e4b52983648a disconnected.
+1706884442: New connection from 172.18.0.1:45656 on port 1883.
+1706884442: New client connected from 172.18.0.1:45656 as nodered_d122a1a662acee32 (p2, c1, k60).
+1706884494: New connection from 172.18.0.1:60358 on port 1883.
+1706884494: New client connected from 172.18.0.1:60358 as publish-681 (p2, c1, k60).
+1706884494: Client publish-681 closed its connection.
+1706884494: Client publish-434 closed its connection.
+1706886087: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1706887313: Client nodered_d122a1a662acee32 disconnected.
+1706887313: New connection from 172.18.0.1:58336 on port 1883.
+1706887313: New client connected from 172.18.0.1:58336 as nodered_ad62ba4ac6b64a39 (p2, c1, k60).
+1706887470: Client Telegraf-Consumer-IHxn0 disconnected.
+1706887888: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1706889689: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1706891490: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1706893291: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1706895092: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1706896893: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1706898694: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1706900495: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1706902296: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1706904097: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1706905898: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1706925466: mosquitto version 2.0.18 starting
+1706925466: Config loaded from /mosquitto/config/mosquitto.conf.
+1706925466: Opening ipv4 listen socket on port 1883.
+1706925466: mosquitto version 2.0.18 running
+1706925467: New connection from 172.18.0.1:56712 on port 1883.
+1706925467: New client connected from 172.18.0.1:56712 as Telegraf-Consumer-vp4a8 (p2, c1, k60).
+1706926155: New connection from 172.18.0.1:58280 on port 1883.
+1706926155: New client connected from 172.18.0.1:58280 as nodered_81d23fea95c2dfd8 (p2, c1, k60).
+1706927266: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1706929067: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1706930868: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1706932610: mosquitto version 2.0.18 starting
+1706932610: Config loaded from /mosquitto/config/mosquitto.conf.
+1706932610: Opening ipv4 listen socket on port 1883.
+1706932610: mosquitto version 2.0.18 running
+1706934325: mosquitto version 2.0.18 starting
+1706934325: Config loaded from /mosquitto/config/mosquitto.conf.
+1706934325: Opening ipv4 listen socket on port 1883.
+1706934325: mosquitto version 2.0.18 running
+1706936126: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1706937927: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1706939728: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1706941529: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1706960120: mosquitto version 2.0.18 starting
+1706960120: Config loaded from /mosquitto/config/mosquitto.conf.
+1706960120: Opening ipv4 listen socket on port 1883.
+1706960120: mosquitto version 2.0.18 running
+1706961920: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1706969282: mosquitto version 2.0.18 starting
+1706969282: Config loaded from /mosquitto/config/mosquitto.conf.
+1706969282: Opening ipv4 listen socket on port 1883.
+1706969282: mosquitto version 2.0.18 running
+1706970627: New connection from 172.18.0.1:46934 on port 1883.
+1706970627: New client connected from 172.18.0.1:46934 as Telegraf-Consumer-pH7Mw (p2, c1, k60).
+1706970630: Client Telegraf-Consumer-pH7Mw closed its connection.
+1706970633: New connection from 172.18.0.1:38960 on port 1883.
+1706970633: New client connected from 172.18.0.1:38960 as nodered_a155b50b27deb352 (p2, c1, k60).
+1706970720: New connection from 172.18.0.1:35216 on port 1883.
+1706970720: New client connected from 172.18.0.1:35216 as Telegraf-Consumer-pH7Mw (p2, c1, k60).
+1706971083: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1706972884: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1706974685: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1706976486: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1706977962: Client nodered_a155b50b27deb352 disconnected.
+1706977962: New connection from 172.18.0.1:58454 on port 1883.
+1706977962: New client connected from 172.18.0.1:58454 as nodered_de43731692fc6904 (p2, c1, k60).
+1706978287: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1706980088: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1706981889: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1706983690: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1706985491: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1706987292: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1706989093: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1706990894: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1706992695: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1706994394: New connection from 172.18.0.1:44332 on port 1883.
+1706994394: New client connected from 172.18.0.1:44332 as publish-405 (p2, c1, k60).
+1706994403: New connection from 172.18.0.1:51562 on port 1883.
+1706994403: New client connected from 172.18.0.1:51562 as publish-646 (p2, c1, k60).
+1706994403: Client publish-646 closed its connection.
+1706994403: Client publish-405 closed its connection.
+1706994496: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1706994527: New connection from 172.18.0.1:42100 on port 1883.
+1706994527: New client connected from 172.18.0.1:42100 as publish-742 (p2, c1, k60).
+1706994533: New connection from 172.18.0.1:38694 on port 1883.
+1706994533: New client connected from 172.18.0.1:38694 as publish-197 (p2, c1, k60).
+1706994533: Client publish-197 closed its connection.
+1706994533: Client publish-742 closed its connection.
+1707017863: mosquitto version 2.0.18 starting
+1707017863: Config loaded from /mosquitto/config/mosquitto.conf.
+1707017863: Opening ipv4 listen socket on port 1883.
+1707017863: mosquitto version 2.0.18 running
+1707017864: New connection from 172.18.0.1:51020 on port 1883.
+1707017864: New client connected from 172.18.0.1:51020 as Telegraf-Consumer-QkCo3 (p2, c1, k60).
+1707019096: New connection from 172.18.0.1:44174 on port 1883.
+1707019096: New client connected from 172.18.0.1:44174 as nodered_44b8a734ef4e7a89 (p2, c1, k60).
+1707019162: New connection from 172.18.0.1:48230 on port 1883.
+1707019162: New client connected from 172.18.0.1:48230 as publish-952 (p2, c1, k60).
+1707019177: New connection from 172.18.0.1:55176 on port 1883.
+1707019177: New client connected from 172.18.0.1:55176 as publish-663 (p2, c1, k60).
+1707019177: Client publish-663 closed its connection.
+1707019177: Client publish-952 closed its connection.
+1707019181: New connection from 172.18.0.1:55192 on port 1883.
+1707019181: New client connected from 172.18.0.1:55192 as publish-954 (p2, c1, k60).
+1707019183: New connection from 172.18.0.1:60720 on port 1883.
+1707019183: New client connected from 172.18.0.1:60720 as publish-109 (p2, c1, k60).
+1707019183: Client publish-109 closed its connection.
+1707019183: Client publish-954 closed its connection.
+1707019663: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707019705: Client Telegraf-Consumer-QkCo3 disconnected.
+1707019962: New connection from 172.18.0.1:33534 on port 1883.
+1707019962: New client connected from 172.18.0.1:33534 as Telegraf-Consumer-cv9WL (p2, c1, k60).
+1707019962: New connection from 172.18.0.1:33536 on port 1883.
+1707019962: New client connected from 172.18.0.1:33536 as Telegraf-Consumer-a9niU (p2, c1, k60).
+1707019962: New connection from 172.18.0.1:33544 on port 1883.
+1707019962: New client connected from 172.18.0.1:33544 as Telegraf-Consumer-2HBoh (p2, c1, k60).
+1707020025: Client Telegraf-Consumer-cv9WL disconnected.
+1707020025: Client Telegraf-Consumer-a9niU disconnected.
+1707020025: Client Telegraf-Consumer-2HBoh disconnected.
+1707020083: New connection from 172.18.0.1:52956 on port 1883.
+1707020083: New client connected from 172.18.0.1:52956 as Telegraf-Consumer-QwtK0 (p2, c1, k60).
+1707020083: New connection from 172.18.0.1:52972 on port 1883.
+1707020083: New client connected from 172.18.0.1:52972 as Telegraf-Consumer-2gO5W (p2, c1, k60).
+1707020083: New connection from 172.18.0.1:52976 on port 1883.
+1707020083: New client connected from 172.18.0.1:52976 as Telegraf-Consumer-JgBtz (p2, c1, k60).
+1707020092: Client Telegraf-Consumer-QwtK0 disconnected.
+1707020092: Client Telegraf-Consumer-2gO5W disconnected.
+1707020092: Client Telegraf-Consumer-JgBtz disconnected.
+1707020235: New connection from 172.18.0.1:38998 on port 1883.
+1707020235: New client connected from 172.18.0.1:38998 as Telegraf-Consumer-3rH1h (p2, c1, k60).
+1707020235: New connection from 172.18.0.1:39000 on port 1883.
+1707020235: New client connected from 172.18.0.1:39000 as Telegraf-Consumer-Q9buU (p2, c1, k60).
+1707020235: New connection from 172.18.0.1:39008 on port 1883.
+1707020235: New client connected from 172.18.0.1:39008 as Telegraf-Consumer-7B7i6 (p2, c1, k60).
+1707020395: Client Telegraf-Consumer-7B7i6 disconnected.
+1707020395: Client Telegraf-Consumer-3rH1h disconnected.
+1707020395: Client Telegraf-Consumer-Q9buU disconnected.
+1707020409: New connection from 172.18.0.1:46930 on port 1883.
+1707020409: New client connected from 172.18.0.1:46930 as Telegraf-Consumer-p926j (p2, c1, k60).
+1707020409: New connection from 172.18.0.1:46946 on port 1883.
+1707020409: New client connected from 172.18.0.1:46946 as Telegraf-Consumer-yc2U1 (p2, c1, k60).
+1707020409: New connection from 172.18.0.1:46956 on port 1883.
+1707020409: New client connected from 172.18.0.1:46956 as Telegraf-Consumer-ZO1mv (p2, c1, k60).
+1707020706: Client Telegraf-Consumer-p926j disconnected.
+1707020706: Client Telegraf-Consumer-yc2U1 disconnected.
+1707020706: Client Telegraf-Consumer-ZO1mv disconnected.
+1707021416: New connection from 172.18.0.1:44996 on port 1883.
+1707021416: New client connected from 172.18.0.1:44996 as Telegraf-Consumer-aXvnm (p2, c1, k60).
+1707021416: New connection from 172.18.0.1:45000 on port 1883.
+1707021416: New client connected from 172.18.0.1:45000 as Telegraf-Consumer-evm5I (p2, c1, k60).
+1707021416: New connection from 172.18.0.1:45006 on port 1883.
+1707021416: New client connected from 172.18.0.1:45006 as Telegraf-Consumer-YUZ5N (p2, c1, k60).
+1707021464: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707021531: Client Telegraf-Consumer-aXvnm disconnected.
+1707021531: Client Telegraf-Consumer-YUZ5N disconnected.
+1707021531: Client Telegraf-Consumer-evm5I disconnected.
+1707021539: New connection from 172.18.0.1:60004 on port 1883.
+1707021539: New client connected from 172.18.0.1:60004 as Telegraf-Consumer-f24YW (p2, c1, k60).
+1707021539: New connection from 172.18.0.1:60020 on port 1883.
+1707021539: New client connected from 172.18.0.1:60020 as Telegraf-Consumer-D54nm (p2, c1, k60).
+1707021539: New connection from 172.18.0.1:60034 on port 1883.
+1707021539: New client connected from 172.18.0.1:60034 as Telegraf-Consumer-tOT1W (p2, c1, k60).
+1707023975: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707025326: Client Telegraf-Consumer-f24YW disconnected.
+1707025326: Client Telegraf-Consumer-D54nm disconnected.
+1707025326: Client Telegraf-Consumer-tOT1W disconnected.
+1707025403: New connection from 172.18.0.1:55776 on port 1883.
+1707025403: New client connected from 172.18.0.1:55776 as Telegraf-Consumer-SMyxA (p2, c1, k60).
+1707025403: New connection from 172.18.0.1:55790 on port 1883.
+1707025403: New client connected from 172.18.0.1:55790 as Telegraf-Consumer-NC0nZ (p2, c1, k60).
+1707025403: New connection from 172.18.0.1:55804 on port 1883.
+1707025403: New client connected from 172.18.0.1:55804 as Telegraf-Consumer-5SD7t (p2, c1, k60).
+1707025594: Client Telegraf-Consumer-NC0nZ disconnected.
+1707025594: Client Telegraf-Consumer-SMyxA disconnected.
+1707025594: Client Telegraf-Consumer-5SD7t disconnected.
+1707025617: New connection from 172.18.0.1:56192 on port 1883.
+1707025617: New client connected from 172.18.0.1:56192 as Telegraf-Consumer-6Hc0O (p2, c1, k60).
+1707025617: New connection from 172.18.0.1:56196 on port 1883.
+1707025617: New client connected from 172.18.0.1:56196 as Telegraf-Consumer-vHoRQ (p2, c1, k60).
+1707025617: New connection from 172.18.0.1:56202 on port 1883.
+1707025617: New client connected from 172.18.0.1:56202 as Telegraf-Consumer-60PVE (p2, c1, k60).
+1707025776: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707027577: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707027842: Client Telegraf-Consumer-6Hc0O disconnected.
+1707027842: Client Telegraf-Consumer-60PVE disconnected.
+1707027842: Client Telegraf-Consumer-vHoRQ disconnected.
+1707027879: New connection from 172.18.0.1:45264 on port 1883.
+1707027879: New client connected from 172.18.0.1:45264 as Telegraf-Consumer-rK9nz (p2, c1, k60).
+1707027879: New connection from 172.18.0.1:45266 on port 1883.
+1707027879: New client connected from 172.18.0.1:45266 as Telegraf-Consumer-9Cuba (p2, c1, k60).
+1707027879: New connection from 172.18.0.1:45276 on port 1883.
+1707027879: New client connected from 172.18.0.1:45276 as Telegraf-Consumer-0FKO5 (p2, c1, k60).
+1707027892: Client Telegraf-Consumer-rK9nz disconnected.
+1707027892: Client Telegraf-Consumer-0FKO5 disconnected.
+1707027892: Client Telegraf-Consumer-9Cuba disconnected.
+1707027897: New connection from 172.18.0.1:35206 on port 1883.
+1707027897: New client connected from 172.18.0.1:35206 as Telegraf-Consumer-hyKxx (p2, c1, k60).
+1707027897: New connection from 172.18.0.1:35210 on port 1883.
+1707027897: New client connected from 172.18.0.1:35210 as Telegraf-Consumer-KeUs5 (p2, c1, k60).
+1707027897: New connection from 172.18.0.1:35212 on port 1883.
+1707027897: New client connected from 172.18.0.1:35212 as Telegraf-Consumer-Bx1Ni (p2, c1, k60).
+1707028198: Client Telegraf-Consumer-hyKxx disconnected.
+1707028198: Client Telegraf-Consumer-Bx1Ni disconnected.
+1707028198: Client Telegraf-Consumer-KeUs5 disconnected.
+1707028240: New connection from 172.18.0.1:40786 on port 1883.
+1707028240: New client connected from 172.18.0.1:40786 as Telegraf-Consumer-SFVex (p2, c1, k60).
+1707028240: New connection from 172.18.0.1:40796 on port 1883.
+1707028240: New client connected from 172.18.0.1:40796 as Telegraf-Consumer-YFVTB (p2, c1, k60).
+1707028240: New connection from 172.18.0.1:40800 on port 1883.
+1707028240: New client connected from 172.18.0.1:40800 as Telegraf-Consumer-5EoY1 (p2, c1, k60).
+1707028309: Client Telegraf-Consumer-SFVex disconnected.
+1707028309: Client Telegraf-Consumer-YFVTB disconnected.
+1707028309: Client Telegraf-Consumer-5EoY1 disconnected.
+1707028320: New connection from 172.18.0.1:56484 on port 1883.
+1707028320: New client connected from 172.18.0.1:56484 as Telegraf-Consumer-W5bT7 (p2, c1, k60).
+1707028320: New connection from 172.18.0.1:56494 on port 1883.
+1707028320: New client connected from 172.18.0.1:56494 as Telegraf-Consumer-toOey (p2, c1, k60).
+1707028320: New connection from 172.18.0.1:56502 on port 1883.
+1707028320: New client connected from 172.18.0.1:56502 as Telegraf-Consumer-x2WXh (p2, c1, k60).
+1707029287: New connection from 172.18.0.1:42722 on port 1883.
+1707029287: New client connected from 172.18.0.1:42722 as publish-915 (p2, c1, k60).
+1707029300: New connection from 172.18.0.1:45772 on port 1883.
+1707029300: New client connected from 172.18.0.1:45772 as publish-769 (p2, c1, k60).
+1707029301: New connection from 172.18.0.1:45780 on port 1883.
+1707029301: New client connected from 172.18.0.1:45780 as publish-818 (p2, c1, k60).
+1707029301: Client publish-818 closed its connection.
+1707029301: Client publish-915 closed its connection.
+1707029301: Client publish-769 closed its connection.
+1707029302: New connection from 172.18.0.1:45786 on port 1883.
+1707029302: New client connected from 172.18.0.1:45786 as publish-292 (p2, c1, k60).
+1707029303: New connection from 172.18.0.1:45792 on port 1883.
+1707029303: New client connected from 172.18.0.1:45792 as publish-21 (p2, c1, k60).
+1707029303: Client publish-21 closed its connection.
+1707029303: Client publish-292 closed its connection.
+1707029305: New connection from 172.18.0.1:45806 on port 1883.
+1707029305: New client connected from 172.18.0.1:45806 as publish-381 (p2, c1, k60).
+1707029308: New connection from 172.18.0.1:38322 on port 1883.
+1707029308: New client connected from 172.18.0.1:38322 as publish-783 (p2, c1, k60).
+1707029308: Client publish-783 closed its connection.
+1707029308: Client publish-381 closed its connection.
+1707029393: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707029719: New connection from 172.18.0.1:37276 on port 1883.
+1707029719: New client connected from 172.18.0.1:37276 as publish-253 (p2, c1, k60).
+1707029720: New connection from 172.18.0.1:37286 on port 1883.
+1707029720: New client connected from 172.18.0.1:37286 as publish-758 (p2, c1, k60).
+1707029720: Client publish-758 closed its connection.
+1707029720: Client publish-253 closed its connection.
+1707029722: New connection from 172.18.0.1:37300 on port 1883.
+1707029722: New client connected from 172.18.0.1:37300 as publish-567 (p2, c1, k60).
+1707029727: New connection from 172.18.0.1:59992 on port 1883.
+1707029727: New client connected from 172.18.0.1:59992 as publish-750 (p2, c1, k60).
+1707029727: Client publish-750 closed its connection.
+1707029727: Client publish-567 closed its connection.
+1707029729: New connection from 172.18.0.1:60006 on port 1883.
+1707029729: New client connected from 172.18.0.1:60006 as publish-783 (p2, c1, k60).
+1707029732: New connection from 172.18.0.1:60014 on port 1883.
+1707029732: New client connected from 172.18.0.1:60014 as publish-123 (p2, c1, k60).
+1707029732: Client publish-123 closed its connection.
+1707029732: Client publish-783 closed its connection.
+1707030563: New connection from 172.18.0.1:40530 on port 1883.
+1707030563: New client connected from 172.18.0.1:40530 as publish-690 (p2, c1, k60).
+1707030568: New connection from 172.18.0.1:56326 on port 1883.
+1707030568: New client connected from 172.18.0.1:56326 as publish-924 (p2, c1, k60).
+1707030568: Client publish-924 closed its connection.
+1707030568: Client publish-690 closed its connection.
+1707031194: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707031415: New connection from 172.18.0.1:46152 on port 1883.
+1707031415: New client connected from 172.18.0.1:46152 as publish-769 (p2, c1, k60).
+1707031417: New connection from 172.18.0.1:50790 on port 1883.
+1707031417: New client connected from 172.18.0.1:50790 as publish-15 (p2, c1, k60).
+1707031417: Client publish-15 closed its connection.
+1707031417: Client publish-769 closed its connection.
+1707032995: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707034796: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707036597: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707038398: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707040199: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707040252: New connection from 172.18.0.1:34840 on port 1883.
+1707040252: New client connected from 172.18.0.1:34840 as publish-305 (p2, c1, k60).
+1707040255: New connection from 172.18.0.1:34848 on port 1883.
+1707040255: New client connected from 172.18.0.1:34848 as publish-897 (p2, c1, k60).
+1707040255: Client publish-897 closed its connection.
+1707040255: Client publish-305 closed its connection.
+1707040266: New connection from 172.18.0.1:56308 on port 1883.
+1707040267: New client connected from 172.18.0.1:56308 as publish-53 (p2, c1, k60).
+1707040267: Client publish-53 closed its connection.
+1707041857: New connection from 172.18.0.1:36612 on port 1883.
+1707041857: New client connected from 172.18.0.1:36612 as publish-851 (p2, c1, k60).
+1707041862: New connection from 172.18.0.1:36614 on port 1883.
+1707041862: New client connected from 172.18.0.1:36614 as publish-659 (p2, c1, k60).
+1707041862: Client publish-659 closed its connection.
+1707041862: Client publish-851 closed its connection.
+1707042000: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707042972: New connection from 172.18.0.1:59810 on port 1883.
+1707042972: New client connected from 172.18.0.1:59810 as publish-340 (p2, c1, k60).
+1707042974: New connection from 172.18.0.1:59816 on port 1883.
+1707042974: New client connected from 172.18.0.1:59816 as publish-639 (p2, c1, k60).
+1707042974: Client publish-639 closed its connection.
+1707042974: Client publish-340 closed its connection.
+1707042976: New connection from 172.18.0.1:52572 on port 1883.
+1707042976: New client connected from 172.18.0.1:52572 as publish-651 (p2, c1, k60).
+1707042987: New connection from 172.18.0.1:53804 on port 1883.
+1707042987: New client connected from 172.18.0.1:53804 as publish-770 (p2, c1, k60).
+1707042987: Client publish-770 closed its connection.
+1707042987: Client publish-651 closed its connection.
+1707043432: New connection from 172.18.0.1:39620 on port 1883.
+1707043432: New client connected from 172.18.0.1:39620 as publish-872 (p2, c1, k60).
+1707043432: Client publish-872 closed its connection.
+1707043511: New connection from 172.18.0.1:39278 on port 1883.
+1707043511: New client connected from 172.18.0.1:39278 as publish-314 (p2, c1, k60).
+1707043514: New connection from 172.18.0.1:39280 on port 1883.
+1707043514: New client connected from 172.18.0.1:39280 as publish-749 (p2, c1, k60).
+1707043514: Client publish-749 closed its connection.
+1707043514: Client publish-314 closed its connection.
+1707043801: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707044146: New connection from 172.18.0.1:43688 on port 1883.
+1707044146: New client connected from 172.18.0.1:43688 as publish-805 (p2, c1, k60).
+1707044150: New connection from 172.18.0.1:36722 on port 1883.
+1707044150: New client connected from 172.18.0.1:36722 as publish-302 (p2, c1, k60).
+1707044150: Client publish-302 closed its connection.
+1707044150: Client publish-805 closed its connection.
+1707044153: New connection from 172.18.0.1:36724 on port 1883.
+1707044153: New client connected from 172.18.0.1:36724 as publish-75 (p2, c1, k60).
+1707044159: New connection from 172.18.0.1:41614 on port 1883.
+1707044159: New client connected from 172.18.0.1:41614 as publish-577 (p2, c1, k60).
+1707044159: Client publish-577 closed its connection.
+1707044159: Client publish-75 closed its connection.
+1707044164: New connection from 172.18.0.1:41616 on port 1883.
+1707044164: New client connected from 172.18.0.1:41616 as publish-163 (p2, c1, k60).
+1707044169: New connection from 172.18.0.1:55304 on port 1883.
+1707044169: New client connected from 172.18.0.1:55304 as publish-676 (p2, c1, k60).
+1707044169: Client publish-676 closed its connection.
+1707044169: Client publish-163 closed its connection.
+1707049940: mosquitto version 2.0.18 starting
+1707049940: Config loaded from /mosquitto/config/mosquitto.conf.
+1707049940: Opening ipv4 listen socket on port 1883.
+1707049940: mosquitto version 2.0.18 running
+1707050071: New connection from 172.18.0.1:52956 on port 1883.
+1707050071: New client connected from 172.18.0.1:52956 as Telegraf-Consumer-sq30h (p2, c1, k60).
+1707050071: New connection from 172.18.0.1:52962 on port 1883.
+1707050071: New client connected from 172.18.0.1:52962 as Telegraf-Consumer-z6HIH (p2, c1, k60).
+1707050071: New connection from 172.18.0.1:52964 on port 1883.
+1707050071: New client connected from 172.18.0.1:52964 as Telegraf-Consumer-wBMht (p2, c1, k60).
+1707050073: New connection from 172.18.0.1:52970 on port 1883.
+1707050073: New client connected from 172.18.0.1:52970 as nodered_3f52dc4b97ab7d1f (p2, c1, k60).
+1707050094: New connection from 172.18.0.1:37698 on port 1883.
+1707050094: New client connected from 172.18.0.1:37698 as publish-79 (p2, c1, k60).
+1707050103: New connection from 172.18.0.1:37256 on port 1883.
+1707050103: New client connected from 172.18.0.1:37256 as publish-514 (p2, c1, k60).
+1707050103: Client publish-514 closed its connection.
+1707050103: Client publish-79 closed its connection.
+1707050119: New connection from 172.18.0.1:39670 on port 1883.
+1707050119: New client connected from 172.18.0.1:39670 as publish-285 (p2, c1, k60).
+1707050121: New connection from 172.18.0.1:39686 on port 1883.
+1707050121: New client connected from 172.18.0.1:39686 as publish-218 (p2, c1, k60).
+1707050121: Client publish-218 closed its connection.
+1707050121: Client publish-285 closed its connection.
+1707050993: New connection from 172.18.0.1:37718 on port 1883.
+1707050993: New client connected from 172.18.0.1:37718 as publish-316 (p2, c1, k60).
+1707051002: New connection from 172.18.0.1:34694 on port 1883.
+1707051002: New client connected from 172.18.0.1:34694 as publish-741 (p2, c1, k60).
+1707051002: Client publish-741 closed its connection.
+1707051002: Client publish-316 closed its connection.
+1707051149: New connection from 172.18.0.1:43298 on port 1883.
+1707051149: New client connected from 172.18.0.1:43298 as publish-339 (p2, c1, k60).
+1707051152: New connection from 172.18.0.1:43314 on port 1883.
+1707051152: New client connected from 172.18.0.1:43314 as publish-796 (p2, c1, k60).
+1707051152: Client publish-796 closed its connection.
+1707051152: Client publish-339 closed its connection.
+1707051158: New connection from 172.18.0.1:36758 on port 1883.
+1707051158: New client connected from 172.18.0.1:36758 as publish-225 (p2, c1, k60).
+1707051158: Client publish-225 closed its connection.
+1707051741: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707053542: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707055343: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707057144: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707058945: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707060746: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707063127: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707064928: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707066729: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707068530: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707070331: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707072132: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707073637: Client nodered_3f52dc4b97ab7d1f disconnected.
+1707135091: mosquitto version 2.0.18 starting
+1707135091: Config loaded from /mosquitto/config/mosquitto.conf.
+1707135091: Opening ipv4 listen socket on port 1883.
+1707135091: mosquitto version 2.0.18 running
+1707136892: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707138607: New connection from 172.18.0.1:47960 on port 1883.
+1707138607: New client connected from 172.18.0.1:47960 as Telegraf-Consumer-q3qYg (p2, c1, k60).
+1707138607: New connection from 172.18.0.1:47972 on port 1883.
+1707138607: New client connected from 172.18.0.1:47972 as Telegraf-Consumer-g303A (p2, c1, k60).
+1707138607: New connection from 172.18.0.1:47984 on port 1883.
+1707138607: New client connected from 172.18.0.1:47984 as Telegraf-Consumer-L1mz5 (p2, c1, k60).
+1707138614: New connection from 172.18.0.1:49220 on port 1883.
+1707138614: New client connected from 172.18.0.1:49220 as nodered_3d530538cab3dccd (p2, c1, k60).
+1707138693: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707140494: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707142295: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707144096: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707145897: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707147698: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707149499: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707151300: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707152775: Client nodered_3d530538cab3dccd disconnected.
+1707153101: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707224386: mosquitto version 2.0.18 starting
+1707224386: Config loaded from /mosquitto/config/mosquitto.conf.
+1707224386: Opening ipv4 listen socket on port 1883.
+1707224386: mosquitto version 2.0.18 running
+1707224387: New connection from 172.18.0.1:39618 on port 1883.
+1707224387: New client connected from 172.18.0.1:39618 as Telegraf-Consumer-u9mk6 (p2, c1, k60).
+1707224387: New connection from 172.18.0.1:39626 on port 1883.
+1707224387: New client connected from 172.18.0.1:39626 as Telegraf-Consumer-cMQtB (p2, c1, k60).
+1707224387: New connection from 172.18.0.1:39628 on port 1883.
+1707224387: New client connected from 172.18.0.1:39628 as Telegraf-Consumer-33WwX (p2, c1, k60).
+1707225008: Client Telegraf-Consumer-33WwX closed its connection.
+1707225008: Client Telegraf-Consumer-cMQtB closed its connection.
+1707225008: Client Telegraf-Consumer-u9mk6 closed its connection.
+1707225240: New connection from 172.18.0.1:54648 on port 1883.
+1707225240: New connection from 172.18.0.1:54642 on port 1883.
+1707225240: New connection from 172.18.0.1:54658 on port 1883.
+1707225240: New client connected from 172.18.0.1:54648 as Telegraf-Consumer-33WwX (p2, c1, k60).
+1707225240: New client connected from 172.18.0.1:54642 as Telegraf-Consumer-u9mk6 (p2, c1, k60).
+1707225240: New client connected from 172.18.0.1:54658 as Telegraf-Consumer-cMQtB (p2, c1, k60).
+1707225752: Client Telegraf-Consumer-cMQtB disconnected.
+1707225752: Client Telegraf-Consumer-u9mk6 disconnected.
+1707225752: Client Telegraf-Consumer-33WwX disconnected.
+1707226189: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707226592: New connection from 172.18.0.1:57690 on port 1883.
+1707226592: New client connected from 172.18.0.1:57690 as Telegraf-Consumer-qTQHc (p2, c1, k60).
+1707226592: New connection from 172.18.0.1:57706 on port 1883.
+1707226592: New client connected from 172.18.0.1:57706 as Telegraf-Consumer-QlMah (p2, c1, k60).
+1707226592: New connection from 172.18.0.1:57720 on port 1883.
+1707226592: New client connected from 172.18.0.1:57720 as Telegraf-Consumer-pm71a (p2, c1, k60).
+1707226595: Client Telegraf-Consumer-QlMah disconnected.
+1707226595: Client Telegraf-Consumer-qTQHc disconnected.
+1707226595: Client Telegraf-Consumer-pm71a disconnected.
+1707226602: New connection from 172.18.0.1:47578 on port 1883.
+1707226602: New client connected from 172.18.0.1:47578 as Telegraf-Consumer-1TGDQ (p2, c1, k60).
+1707226602: New connection from 172.18.0.1:47590 on port 1883.
+1707226602: New client connected from 172.18.0.1:47590 as Telegraf-Consumer-WnsV3 (p2, c1, k60).
+1707226602: New connection from 172.18.0.1:47596 on port 1883.
+1707226602: New client connected from 172.18.0.1:47596 as Telegraf-Consumer-vYrHP (p2, c1, k60).
+1707227990: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707228105: New connection from 172.18.0.1:50302 on port 1883.
+1707228105: New client connected from 172.18.0.1:50302 as nodered_0b6eb9e24c2d24cf (p2, c1, k60).
+1707229791: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707231592: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707231964: New connection from 172.18.0.1:41962 on port 1883.
+1707231964: New client connected from 172.18.0.1:41962 as publish-333 (p2, c1, k60).
+1707231966: New connection from 172.18.0.1:41978 on port 1883.
+1707231966: New client connected from 172.18.0.1:41978 as publish-494 (p2, c1, k60).
+1707231966: Client publish-494 closed its connection.
+1707231966: Client publish-333 closed its connection.
+1707232538: New connection from 172.18.0.1:45582 on port 1883.
+1707232538: New client connected from 172.18.0.1:45582 as publish-609 (p2, c1, k60).
+1707232601: New connection from 172.18.0.1:59984 on port 1883.
+1707232601: New client connected from 172.18.0.1:59984 as publish-259 (p2, c1, k60).
+1707232602: New connection from 172.18.0.1:59990 on port 1883.
+1707232602: New client connected from 172.18.0.1:59990 as publish-827 (p2, c1, k60).
+1707232693: New connection from 172.18.0.1:57100 on port 1883.
+1707232693: New client connected from 172.18.0.1:57100 as publish-449 (p2, c1, k60).
+1707232705: New connection from 172.18.0.1:34306 on port 1883.
+1707232705: New client connected from 172.18.0.1:34306 as publish-573 (p2, c1, k60).
+1707232705: Client publish-573 closed its connection.
+1707232705: Client publish-449 closed its connection.
+1707232759: Client publish-827 closed its connection.
+1707232759: Client publish-609 closed its connection.
+1707232759: Client publish-259 closed its connection.
+1707233393: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707235194: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707236995: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707237533: Client nodered_0b6eb9e24c2d24cf disconnected.
+1707312409: mosquitto version 2.0.18 starting
+1707312409: Config loaded from /mosquitto/config/mosquitto.conf.
+1707312409: Opening ipv4 listen socket on port 1883.
+1707312409: mosquitto version 2.0.18 running
+1707312411: New connection from 172.18.0.1:56066 on port 1883.
+1707312411: New client connected from 172.18.0.1:56066 as Telegraf-Consumer-0Z7uG (p2, c1, k60).
+1707312411: New connection from 172.18.0.1:56074 on port 1883.
+1707312411: New client connected from 172.18.0.1:56074 as Telegraf-Consumer-1alAv (p2, c1, k60).
+1707312411: New connection from 172.18.0.1:56078 on port 1883.
+1707312411: New client connected from 172.18.0.1:56078 as Telegraf-Consumer-b9OK5 (p2, c1, k60).
+1707314209: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707316010: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707317811: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707319612: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707319696: New connection from 172.18.0.1:40302 on port 1883.
+1707319696: New client connected from 172.18.0.1:40302 as nodered_c5ee4e6a138c7622 (p2, c1, k60).
+1707320156: New connection from 172.18.0.1:60558 on port 1883.
+1707320156: New client connected from 172.18.0.1:60558 as publish-586 (p2, c1, k60).
+1707320162: New connection from 172.18.0.1:44056 on port 1883.
+1707320162: New client connected from 172.18.0.1:44056 as publish-75 (p2, c1, k60).
+1707320162: Client publish-75 closed its connection.
+1707320162: Client publish-586 closed its connection.
+1707321413: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707323214: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707325015: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707326156: New connection from 172.18.0.1:42922 on port 1883.
+1707326156: New client connected from 172.18.0.1:42922 as publish-44 (p2, c1, k60).
+1707326161: New connection from 172.18.0.1:42932 on port 1883.
+1707326161: New client connected from 172.18.0.1:42932 as publish-610 (p2, c1, k60).
+1707326161: Client publish-44 closed its connection.
+1707326164: New connection from 172.18.0.1:45480 on port 1883.
+1707326164: New client connected from 172.18.0.1:45480 as publish-236 (p2, c1, k60).
+1707326164: Client publish-236 closed its connection.
+1707326164: Client publish-610 closed its connection.
+1707326200: New connection from 172.18.0.1:40910 on port 1883.
+1707326200: New client connected from 172.18.0.1:40910 as publish-710 (p2, c1, k60).
+1707326200: Client publish-710 closed its connection.
+1707326205: New connection from 172.18.0.1:60766 on port 1883.
+1707326205: New client connected from 172.18.0.1:60766 as publish-345 (p2, c1, k60).
+1707326212: New connection from 172.18.0.1:59500 on port 1883.
+1707326212: New client connected from 172.18.0.1:59500 as publish-795 (p2, c1, k60).
+1707326212: Client publish-795 closed its connection.
+1707326212: Client publish-345 closed its connection.
+1707326305: New connection from 172.18.0.1:45098 on port 1883.
+1707326305: New client connected from 172.18.0.1:45098 as publish-626 (p2, c1, k60).
+1707326305: Client publish-626 closed its connection.
+1707326816: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707326824: New connection from 172.18.0.1:36376 on port 1883.
+1707326824: New client connected from 172.18.0.1:36376 as publish-870 (p2, c1, k60).
+1707326824: Client publish-870 closed its connection.
